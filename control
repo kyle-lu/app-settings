@@ -1,0 +1,9 @@
+Package: lu.kyle.app-settings
+Name: app-settings:
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Opens this app's corresponding settings in Settings.app.
+Maintainer: Kyle Lu
+Author: Kyle Lu
+Section: Tweaks
